@@ -80,7 +80,7 @@ pip install -r requirements.txt
 2. Run the main script:
 
 ```
-python main.py
+python __main__.py
 ```
 
 3. The output will be the similarity score and the generated PDG visualizations.
